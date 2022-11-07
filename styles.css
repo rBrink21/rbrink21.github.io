@@ -1,0 +1,34 @@
+nav{
+    position: relative;
+    left: 40%;
+}
+body{
+    background-color:#767b91;
+    color:#2a324B ;
+}
+
+a:link{
+    color:#E1e5ee;
+    text-decoration: none;
+}
+nav a{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#Nameplate{
+    position: relative;
+    background-color: #5c607286;
+    width: 15%;
+    left:40%;
+    color: #F7C59F;
+}
+#Nameplate h1{
+    margin-bottom: 3px;
+    padding-bottom: 0px;
+}
+#Nameplate h3{
+    margin-top: 2px;
+    font-size: 0.8em;
+}
+
+
